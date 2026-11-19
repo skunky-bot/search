@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "example-docs",
+      "label": "Example Domain fixture",
+      "url": "https://example.com/",
+      "tags": [
+        "demo",
+        "example",
+        "documentation"
+      ],
+      "enabled": true,
+      "mode": "caller-supplied-html",
+      "outreach_allowed": false
+    }
+  ]
+}
